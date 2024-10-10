@@ -1,0 +1,14 @@
+C:\Users\AJodz\source\repos\Antra\Antra\bin\Debug\net8.0\Antra.exe
+C:\Users\AJodz\source\repos\Antra\Antra\bin\Debug\net8.0\Antra.deps.json
+C:\Users\AJodz\source\repos\Antra\Antra\bin\Debug\net8.0\Antra.runtimeconfig.json
+C:\Users\AJodz\source\repos\Antra\Antra\bin\Debug\net8.0\Antra.dll
+C:\Users\AJodz\source\repos\Antra\Antra\bin\Debug\net8.0\Antra.pdb
+C:\Users\AJodz\source\repos\Antra\Antra\obj\Debug\net8.0\Antra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJodz\source\repos\Antra\Antra\obj\Debug\net8.0\Antra.AssemblyInfoInputs.cache
+C:\Users\AJodz\source\repos\Antra\Antra\obj\Debug\net8.0\Antra.AssemblyInfo.cs
+C:\Users\AJodz\source\repos\Antra\Antra\obj\Debug\net8.0\Antra.csproj.CoreCompileInputs.cache
+C:\Users\AJodz\source\repos\Antra\Antra\obj\Debug\net8.0\Antra.dll
+C:\Users\AJodz\source\repos\Antra\Antra\obj\Debug\net8.0\refint\Antra.dll
+C:\Users\AJodz\source\repos\Antra\Antra\obj\Debug\net8.0\Antra.pdb
+C:\Users\AJodz\source\repos\Antra\Antra\obj\Debug\net8.0\Antra.genruntimeconfig.cache
+C:\Users\AJodz\source\repos\Antra\Antra\obj\Debug\net8.0\ref\Antra.dll

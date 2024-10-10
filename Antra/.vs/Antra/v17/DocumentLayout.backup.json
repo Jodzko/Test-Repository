@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AJodz\\OneDrive\\Documents\\GitHub\\Repository\\Antra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87392D4E-B800-4F86-B2D5-036A056F7624}|Antra\\Antra.csproj|c:\\users\\ajodz\\onedrive\\documents\\github\\repository\\antra\\antra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87392D4E-B800-4F86-B2D5-036A056F7624}|Antra\\Antra.csproj|solutionrelative:antra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AJodz\\OneDrive\\Documents\\GitHub\\Repository\\Antra\\Antra\\Program.cs",
+              "RelativeDocumentMoniker": "Antra\\Program.cs",
+              "ToolTip": "C:\\Users\\AJodz\\OneDrive\\Documents\\GitHub\\Repository\\Antra\\Antra\\Program.cs",
+              "RelativeToolTip": "Antra\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv3IAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:17:31.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
